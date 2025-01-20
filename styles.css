@@ -1,0 +1,62 @@
+*{
+    font-family:'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+p{
+    font-size: 16px;
+    margin: 5px 30px;
+}
+
+#main-title{
+    color: #e63946;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.link{
+    display: block;
+    font-size: 18px;
+    font-weight: 550;
+    color: #185e20;
+}
+
+h3{
+    color: #f5c32c;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 25px;
+}
+
+#Ingredients{
+    color: #662d21 ;
+    font-weight: 400;
+    margin-left: 30px;
+}
+
+h1{
+    color: #f78d3f;
+    text-align: center;
+}
+
+h4{
+    margin-left: 30px;
+    color: #414344;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+strong{
+    font-weight: bold;
+}
+
+#home{
+    margin-left: 30px;
+}
+
+img{
+    display: block;
+    margin: 10px auto;
+}
+
